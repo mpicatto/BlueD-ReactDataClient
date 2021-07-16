@@ -1,0 +1,11 @@
+{
+    "cultivos":[
+        {"name":"Soja", "value":"soy"},
+        {"name":"Maiz","value":"corn"}
+    ],
+    "info":[
+        {"name":"Precio","label":"Precio en USD/ton"},
+        {"name":"Stock","label":"Stock Proyectado en M Toneladas"},
+        {"name":"Indice Dolar","label":"Indice Dolar"}
+    ]
+}
